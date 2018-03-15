@@ -7,6 +7,8 @@ class CharInfo extends Component {
     this.state = {
       expanded: false,
     }
+    this.open = this.open.bind(this);
+    this.close = this.close.bind(this);
   }
 
   open(){
@@ -16,14 +18,20 @@ class CharInfo extends Component {
     this.setState({ expanded: !this.state.expanded })
   }
   render() {
-    const info = this.props.CharInfo;
+    const info = this.props.charInfo;
     if(!this.state.expanded){
-      return <p></p>
+      return <p className="btn btn-info" onClick={this.open}>Show info</p>
     }
     return(
-      <div></div>
-
-      )
+      <div className="user-details">
+        <p className="btn btn-danger" onClick={this.close}>Hide info</p>
+        <ul>
+          <li><h2>Gender: {info.gender}</h2></li>
+          <li><h2>Birth date: {info.birth_year}</h2></li>
+          <li><h2>Hair color: {info.hair_color}</h2></li>
+        </ul>
+      </div>
+    )
   }
 }
 
