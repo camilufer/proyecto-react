@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import List from './List';
 import axios from 'axios';
 
+import './App.css';
+
 /*Acá creamos el component*/
 class App extends Component {
   constructor(props){
@@ -11,7 +13,7 @@ class App extends Component {
       people: [],
     }
 
-    this.getPeople = this.getPeople.bind(this); 
+    this.getPeople = this.getPeople.bind(this);
   }
 
 /*Por medio de axios llamamos a la api*/
