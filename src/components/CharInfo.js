@@ -32,9 +32,10 @@ class CharInfo extends Component {
             <div className="user-details">
               <p className="btn btn-danger" onClick={this.close}>Hide info</p>
               <ul>
-                <li><h2>Gender: {info.gender}</h2></li>
-                <li><h2>Birth date: {info.birth_year}</h2></li>
-                <li><h2>Hair color: {info.hair_color}</h2></li>
+                <li><h3>Gender: {info.gender}</h3></li>
+                <li><h3>Birth date: {info.birth_year}</h3></li>
+                <li><h3>Hair color: {info.hair_color}</h3></li>
+                <li><h3>Height: {info.height}</h3></li>
               </ul>
             </div>
           </Col>
@@ -43,5 +44,6 @@ class CharInfo extends Component {
     )
   }
 }
+
 
 export default CharInfo;
