@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import CharInfo from './CharInfo';
-import App from './App';
+
 
 class List extends Component {
   render() {
