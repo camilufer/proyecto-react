@@ -10,7 +10,7 @@ class Footer extends Component {
           <img src={imagefooter} alt="imgfooter" />
       </div>
 
-        <p>TM & © Lucasfilm Ltd. All Rights Reserved</p> 
+        <p className="footer-text">TM & © Lucasfilm Ltd. All Rights Reserved</p> 
         <ul>
 		  <li><a href="_blank">Terms of Use</a> |</li>
 		  <li><a href="_blank">Legal Notices</a> |</li>
