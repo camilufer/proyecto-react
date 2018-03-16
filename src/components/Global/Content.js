@@ -6,7 +6,7 @@ class Content extends Component {
   render() {
     return(
       <div className="Content">
-        <h1> Characters </h1>
+        <h1> Press show info for more... </h1>
       </div>
     )
   }

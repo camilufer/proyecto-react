@@ -1,5 +1,5 @@
 .App {
-  text-align: left;
+  text-align: center;
 }
 
 
@@ -23,4 +23,8 @@ body {
 
 .Logo img {
   height: 80px;
+}
+
+.List {
+  text-align: center;
 }
