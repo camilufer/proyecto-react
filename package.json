@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
@@ -6,17 +7,34 @@
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+=======
+  "name": "proyecto-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.4",
+    "@fortawesome/react-fontawesome": "0.0.17",
+    "axios": "^0.18.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-flexbox-grid": "^2.0.0",
+    "react-fontawesome": "^1.6.1",
+>>>>>>> 29d7ded74a60a893b274a9e1d241046cb3012520
     "react-scripts": "1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 29d7ded74a60a893b274a9e1d241046cb3012520
   }
 }
