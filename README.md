@@ -1,6 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&logo=github&label=Follow)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-March-brightgreen.svg?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)
+***
 
 
 #Star Wars React
