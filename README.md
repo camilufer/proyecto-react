@@ -48,3 +48,5 @@ Nuestro proyecto conta de 5 componentes básicos:
 
 **List es un componente que funciona por separado de las carpetas de componentes, depende de CharInfo y de App.js**
 
+:smile: [Camila Silva](https://github.com/camilufer)
+:smile: [Lorena Palominos](https://github.com/lpalominosf)
