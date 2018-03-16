@@ -5,7 +5,7 @@
 
 
 #Star Wars React
-***
+
 Star Wars React es un proyecto que se llevó a cabo utilizando `Reactjs`
 
 Consiste en una lista que muestra personajes al azar y algunas características por medio de SWAPI The Star Wars API
