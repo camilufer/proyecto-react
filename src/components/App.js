@@ -1,8 +1,11 @@
 import React, { Component } from 'react';
-import List from './List';
+import List from '../List';
 import axios from 'axios';
+import './Global/css/Header.css';
 
-import './App.css';
+import Header from './Global/Header';
+import Content from './Global/Content';
+import Footer from './Global/Footer';
 
 
 /*Acá creamos el component*/
@@ -33,7 +36,10 @@ class App extends Component {
     const {people} = this.state;
     return (
       <div className="App">
-       <List people = {people} />
+        <Header />
+        <Content />
+        <List people = {people} />
+        <Footer />
       </div>
     );
   }
