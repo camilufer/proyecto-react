@@ -49,4 +49,3 @@ Nuestro proyecto conta de 5 componentes básicos:
 * CharInfo 
 
 **List es un componente que funciona por separado de las carpetas de componentes, depende de CharInfo y de App.js**
-
