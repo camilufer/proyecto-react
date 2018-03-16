@@ -1,3 +1,7 @@
+![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&logo=github&label=Follow)
+![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-March-brightgreen.svg?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)
+
 # Star Wars React
 
 Star Wars React es un proyecto que se llevó a cabo utilizando `Reactjs`
@@ -44,6 +48,3 @@ Nuestro proyecto conta de 5 componentes básicos:
 
 **List es un componente que funciona por separado de las carpetas de componentes, depende de CharInfo y de App.js**
 
-![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&logo=github&label=Follow)
-![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-March-brightgreen.svg?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg)
