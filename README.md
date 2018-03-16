@@ -1,4 +1,4 @@
-#Star Wars React
+# Star Wars React
 
 Star Wars React es un proyecto que se llevó a cabo utilizando `Reactjs`
 
@@ -6,7 +6,7 @@ Consiste en una lista que muestra personajes al azar y algunas características 
 https://swapi.co/
 
 ***
-##Metodología de trabajo
+## Metodología de trabajo
 
 *Como herramienta de planificación utilizamos `Trello` de esta forma tuvimos un mayor orden en las tareas encomendadas y la claridad de lo que necesitaríamos para llevar a cabo nuestro proyecto.
 
@@ -14,7 +14,7 @@ https://swapi.co/
 
 ***
 
-##Requerimientos Técnicos
+## Requerimientos Técnicos
 
 El proyecto fue realizado con los siguientes recursos:
 
@@ -33,7 +33,7 @@ El proyecto fue realizado con los siguientes recursos:
   * SWAPI 
 
 ***
-##Componentes
+## Componentes
 
 Nuestro proyecto conta de 5 componentes básicos:
 * Header
