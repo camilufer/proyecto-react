@@ -3,24 +3,26 @@
   text-align: center;
   width: 100%;
   background-color: #232B2D;
+  color: #FFF;
 }
 
-ul{
- 	list-style: none;
+ul {
+  list-style: none;
  }
 
- li{
-     display: inline;
-	color: #787878;
-}
-
-a {
+ li {
+  display: inline;
   color: #787878;
-  text-decoration: none;
 }
 
-a:hover{
-  color: #FFE821;
+ul li a {
+  text-decoration: none;
+  color: grey;
 }
+
+ul li a:hover {
+  color: #fff;
+}
+
 
 
